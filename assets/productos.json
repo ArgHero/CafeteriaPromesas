@@ -1,0 +1,64 @@
+[
+    {
+      "id": "americano_1",
+      "nombre": "Café Americano",
+      "precio": 30,
+      "imagen": "https://th.bing.com/th/id/OIP.4uQgGStSsrsqxLl_xdwGxwHaEK?rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": "con_leche_2",
+      "nombre": "Café con Leche",
+      "precio": 35,
+      "imagen": "https://chirmolito.com/wp-content/uploads/2022/08/cafe-con-leche.jpg"
+    },
+    {
+      "id": "cappuccino_3",
+      "nombre": "Cappuccino",
+      "precio": 40,
+      "imagen": "https://www.clarin.com/img/2022/03/01/ceq4FUBv9_2000x1500__1.jpg"
+    },
+    {
+      "id": "espresso_4",
+      "nombre": "Espresso (Sencillo)",
+      "precio": 25,
+      "imagen": "https://th.bing.com/th/id/R.1f7e8f3add99e2fc170aaa719bbc5467?rik=Ow68zxaXg6TKsA&pid=ImgRaw&r=0"
+    },
+    {
+      "id": "te_5",
+      "nombre": "Té (Bolsita)",
+      "precio": 20,
+      "imagen": "https://thumbs.dreamstime.com/b/una-taza-de-t%C3%A9-con-la-bolsita-de-t%C3%A9-40219036.jpg"
+    },
+    {
+      "id": "jugo_naranja_6",
+      "nombre": "Jugo de Naranja (Vaso)",
+      "precio": 30,
+      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/09/03/16306645659810.jpg"
+    },
+    {
+      "id": "agua_7",
+      "nombre": "Agua Embotellada",
+      "precio": 18,
+      "imagen": "https://agua.org.mx/wp-content/uploads/2019/09/cuidado-el-agua-embotellada-tabbien-tiene-caducidad-4.jpg"
+    },
+    {
+      "id": "pan_dulce_8",
+      "nombre": "Pan Dulce (pieza)",
+      "precio": 14,
+      "imagen": "https://i1.wp.com/www.mamalatinatips.com/wp-content/uploads/2020/07/pan-dulce-final.jpg?w=1500&ssl=1"
+    },
+    {
+      "id": "sandwich_9",
+      "nombre": "Sándwich (jamón y queso)",
+      "precio": 50,
+      "imagen": "https://th.bing.com/th/id/R.1368acaad60f001fc3793d4d1adff485?rik=w6POuwdc4%2f98cw&riu=http%3a%2f%2fi.huffpost.com%2fgen%2f1107767%2fthumbs%2fo-CLUB-SANDWICH-facebook.jpg&ehk=ofObIJj0qE%2bgM8IOqK%2bGVIShbO0wVhF1CKHPNhDQj6M%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+      "id": "pastel_10",
+      "nombre": "Rebanada de Pastel",
+      "precio": 45,
+      "imagen": "https://cdn2.cocinadelirante.com/sites/default/files/images/2018/07/como-hacer-un-pastel-que-no-quede-seco.jpg"
+    }
+  ]
+  
+  
